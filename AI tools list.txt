@@ -1,0 +1,21 @@
+1. ResumAI.(com) & Rezi.(ai): AI resume writing assistant & resume maker
+
+2. ChatGPT: Your free intern. An AI assistant that answers all sorts if questions from writing a poem, post or code to give advice.
+
+3. ChatSonic: Like ChatGPT but with superpowers. Real time data, images & voice search
+
+3. Midjourney: Generates images from text
+
+4. Excel Formula Bot: Transforms your ‘text instructions’ into excel & ‘google sheet formulas’
+
+5. Stockimg AI: Easily generate a logo, book cover, banner, and more!
+
+6. Presentations AI: Smart presentation tool that uses AI coupled with best design practices to let you create amazing presentations effortlessly.
+
+7. Murf: Changes text to AI generated voices
+
+8. Synthesia: Create AI videos by simply typing in text
+
+9. InstructPix2Pix: Allows you to "Photoshop with words" - just tell it how you want the image changed
+
+10. Browse: Extract data from websites easily
